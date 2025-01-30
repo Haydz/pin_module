@@ -1,7 +1,7 @@
 
 
 locals {
-  version = "A"
+  version = "B"
 }
 
 variable "environment" {
